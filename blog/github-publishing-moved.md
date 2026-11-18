@@ -2,7 +2,7 @@
 date: 2026-11-18
 tags: ["testing","tag-181642"]
 title: "Second GitHub publishing test (edited 18:11:58)"
-permalink: "/blog/second-github-publishing-test/"
+permalink: "/blog/github-publishing-moved/"
 description: "Edited at 18:11:58, to check edits reach the site."
 ---
 
