@@ -1,7 +1,8 @@
 ---
 date: 2026-11-18
-title: "Second GitHub publishing test"
+title: "Second GitHub publishing test (edited 18:11:58)"
 permalink: "/blog/second-github-publishing-test/"
+description: "Edited at 18:11:58, to check edits reach the site."
 ---
 
 The first GitHub publishing test checked that an article could be prepared for our site through a pull request. This second test checks the same path with another article: does the file arrive in the repository, and does the finished page appear at its expected address?
